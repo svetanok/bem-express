@@ -33,7 +33,7 @@
     "enb-bemxjst": "^6.4.0",
     "enb-borschik": "^2.4.0",
     "enb-js": "^1.1.0",
-    "enb-stylus": "^2.3.2",
+    "enb-stylus": "^2.3.3",
     "nodemon": "^1.9.2",
     "watch-run": "^1.2.4",
     "ym": "^0.1.2"
