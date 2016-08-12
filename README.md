@@ -31,7 +31,7 @@ Templating starts in `root` block which replaces itself with `page` or any other
 
 Run server in dev mode with `NODE_ENV=development` environment variable (`nodemon` will set it for you).
 
-In dev mode
+In dev mode:
 
 * Add `?json=1` to URL to see raw data
 * Add `?bemjson=1` to URL to see BEMJSON generated with BEMTREE templates.
